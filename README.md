@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![🎓 Computer Science Graduate](https://img.shields.io/badge/Computer%20Science%20Graduate-6A5ACD?style=for-the-badge&logoColor=white)
-![👨‍💻 Software Developer](https://img.shields.io/badge/Software%20Developer-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
-![🖥️ IT Specialist](https://img.shields.io/badge/IT%20Specialist-2F4F4F?style=for-the-badge&logo=windows&logoColor=white)
-![🔒 Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kali-linux&logoColor=cyan)
+![Computer Science Graduate](https://img.shields.io/badge/Computer%20Science%20Graduate-6A5ACD?style=for-the-badge&logoColor=white)
+![Software Developer](https://img.shields.io/badge/Software%20Developer-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![IT Specialist](https://img.shields.io/badge/IT%20Specialist-2F4F4F?style=for-the-badge&logo=windows&logoColor=white)
+![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kali-linux&logoColor=cyan)
 
 </div>
 
@@ -64,8 +64,6 @@ I'm a Computer Science student passionate about **Software Development**, **Info
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StevenAlSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StevenAlSheikh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenAlSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=StevenAlSheikh&icon=0&color=0)](https://visitcount.itsvg.in)
