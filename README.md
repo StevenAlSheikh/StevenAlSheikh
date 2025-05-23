@@ -2,9 +2,8 @@
 
 <div align="center">
 
-![Computer Science Graduate](https://img.shields.io/badge/🎓%20Computer%20Science%20Graduate-FF0000?style=for-the-badge&logoColor=white)
 ![Software Developer](https://img.shields.io/badge/💻%20Software%20Developer-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IT Specialist](https://img.shields.io/badge/🛠️%20IT%20Specialist-E07B00?style=for-the-badge&logo=windows&logoColor=black&labelColor=000000)
+![IT Specialist](https://img.shields.io/badge/🛠️%20IT%20Specialist-FF0000?style=for-the-badge&logo=windows&logoColor=black&labelColor=000000)
 ![Cybersecurity Enthusiast](https://img.shields.io/badge/🔐%20Cybersecurity-4B0082?style=for-the-badge&logo=kali-linux&logoColor=cyan)
 
 </div>
