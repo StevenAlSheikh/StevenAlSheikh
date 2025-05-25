@@ -72,8 +72,8 @@ I'm a Computer Science student passionate about Software Development, Informatio
 <img src="https://raw.githubusercontent.com/TaranVH/LOGOS/master/FreeBSD%20logo.png" alt="FreeBSD" height="40" />
 
 
-  <!-- OpenBSD -->
-<img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/openbsd.png" alt="OpenBSD" height="40" />
+ <!-- OpenBSD -->
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openbsd.png" alt="OpenBSD" height="40" />
 
   
   <!-- Ubuntu -->
@@ -83,13 +83,13 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Solaris" height="40" />
   
  <!-- Proxmox -->
-<img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/proxmox.png" alt="Proxmox" height="40" />
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/proxmox.png" alt="Proxmox" height="40" />
   
   <!-- Networking -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Networking" height="40" />
   
   <!-- OpenSSL -->
-<img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/openssl.png" alt="OpenSSL" height="40" />
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openssl.png" alt="OpenSSL" height="40" />
 </div>
 
 **Tools & DevOps**  
@@ -127,7 +127,7 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="40" />
 
   <!-- LDAP -->
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/ldapp.png" alt="LDAP" height="40" />
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/ldap%20(2).png" alt="LDAP" height="40" />
 
 
 </div>
