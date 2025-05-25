@@ -12,24 +12,48 @@
 ---
 
 ## 🛠️ About Me  
-I'm a Computer Science student passionate about **Software Development**, **Information Technology**, and **Cybersecurity**. I love building secure, reliable systems and exploring how technology can solve real-world problems.
+I'm a Computer Science student passionate about Software Development, Information Technology, and Cybersecurity. I love building secure, reliable systems and exploring how technology can solve real-world problems.
 
 ---
 
 # 💻 Tech Stack:
 
 **Languages & Web**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" />
+  
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" />
+  
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" />
+  
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" />
+  
+  <!-- Scala -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" height="40" />
+  
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" />
+  
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="40" />
+  
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" />
+  
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" />
+  
+  <!-- XML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" height="40" />
+  
+  <!-- R -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="40" />
+</div>
+
 
 
 **System & Network Administration**  
@@ -45,21 +69,90 @@ I'm a Computer Science student passionate about **Software Development**, **Info
 ![Networking](https://img.shields.io/badge/TCP/IP-007396?style=for-the-badge&logo=networkx&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Hardening-orange?style=for-the-badge&logo=openssl&logoColor=white)
 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" />
+  
+  <!-- Windows -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="40" />
+  
+  <!-- macOS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" height="40" />
+  
+  <!-- FreeBSD -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/FreeBSD_Logo.svg" alt="FreeBSD" height="40" />
+
+  <!-- OpenBSD -->
+  <img src="https://www.openbsd.org/images/puffy.png" alt="OpenBSD" height="40" />
+  
+  <!-- Ubuntu -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="40" />
+  
+  <!-- Solaris -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Solaris" height="40" />
+  
+  <!-- Proxmox -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" alt="Proxmox" height="40" />
+  
+  <!-- Networking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Networking" height="40" />
+  
+  <!-- Security -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openssl/openssl-original.svg" alt="Security" height="40" />
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- FreeBSD -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/FreeBSD_Logo.svg" alt="FreeBSD" height="40" />
+
+  <!-- OpenBSD -->
+  <img src="https://www.openbsd.org/images/puffy.png" alt="OpenBSD" height="40" />
+
+  <!-- Proxmox -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Proxmox_logo.png" alt="Proxmox" height="40" />
+</div>
+
+
+
+
 **Tools & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" />
+  
+  <!-- Ansible -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="40" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
+  
+  <!-- MySQL Workbench -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" height="40" />
+  
+  <!-- Apache Tomcat -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Apache Tomcat" height="40" />
+  
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" />
+</div>
+
 
 **Other Tech Used in Projects**  
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=flask&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-000080?style=for-the-badge&logo=ldap&logoColor=white)
-![PKI](https://img.shields.io/badge/PKI-8A2BE2?style=for-the-badge&logo=lets-encrypt&logoColor=white)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- REST API -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="REST API" height="40" />
+  
+  <!-- JSON -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" height="40" />
+  
+  <!-- Nginx -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="40" />
+  
+</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StevenAlSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
