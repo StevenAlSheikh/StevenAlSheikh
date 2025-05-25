@@ -69,7 +69,8 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" height="40" />
   
  <!-- FreeBSD -->
-<img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/freebsd.png" alt="FreeBSD" height="40" />
+<img src="https://raw.githubusercontent.com/TaranVH/LOGOS/master/FreeBSD%20logo.png" alt="FreeBSD" height="40" />
+
 
   <!-- OpenBSD -->
 <img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/openbsd.png" alt="OpenBSD" height="40" />
