@@ -57,19 +57,6 @@ I'm a Computer Science student passionate about Software Development, Informatio
 
 
 **System & Network Administration**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![OpenBSD](https://img.shields.io/badge/OpenBSD-F9D342?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Solaris](https://img.shields.io/badge/Solaris-FF6600?style=for-the-badge&logo=oracle&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=for-the-badge&logo=proxmox&logoColor=E57000)
-![Networking](https://img.shields.io/badge/TCP/IP-007396?style=for-the-badge&logo=networkx&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Hardening-orange?style=for-the-badge&logo=openssl&logoColor=white)
-
-
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <!-- Linux -->
@@ -100,8 +87,8 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <!-- Networking -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Networking" height="40" />
   
-  <!-- Security -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openssl/openssl-original.svg" alt="Security" height="40" />
+  <!-- OpenSSL -->
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/openssl.png" alt="OpenSSL" height="40" />
 </div>
 
 **Tools & DevOps**  
@@ -137,7 +124,10 @@ I'm a Computer Science student passionate about Software Development, Informatio
   
   <!-- Nginx -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="40" />
-  
+
+  <!-- LDAP -->
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/ldap.png" alt="LDAP" height="40" />
+
 </div>
 
 
