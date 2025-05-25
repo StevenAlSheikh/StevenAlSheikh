@@ -81,11 +81,12 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <!-- macOS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" height="40" />
   
-  <!-- FreeBSD -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/FreeBSD_Logo.svg" alt="FreeBSD" height="40" />
+ <!-- FreeBSD -->
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/freebsd.png" alt="FreeBSD" height="40" />
 
   <!-- OpenBSD -->
-  <img src="https://www.openbsd.org/images/puffy.png" alt="OpenBSD" height="40" />
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/openbsd.png" alt="OpenBSD" height="40" />
+
   
   <!-- Ubuntu -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="40" />
@@ -93,8 +94,8 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <!-- Solaris -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Solaris" height="40" />
   
-  <!-- Proxmox -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" alt="Proxmox" height="40" />
+ <!-- Proxmox -->
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/proxmox.png" alt="Proxmox" height="40" />
   
   <!-- Networking -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Networking" height="40" />
@@ -102,20 +103,6 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <!-- Security -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openssl/openssl-original.svg" alt="Security" height="40" />
 </div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <!-- FreeBSD -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/FreeBSD_Logo.svg" alt="FreeBSD" height="40" />
-
-  <!-- OpenBSD -->
-  <img src="https://www.openbsd.org/images/puffy.png" alt="OpenBSD" height="40" />
-
-  <!-- Proxmox -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Proxmox_logo.png" alt="Proxmox" height="40" />
-</div>
-
-
-
 
 **Tools & DevOps**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
