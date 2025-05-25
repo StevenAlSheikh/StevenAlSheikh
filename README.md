@@ -85,9 +85,6 @@ I'm a Computer Science student passionate about Software Development, Informatio
  <!-- Proxmox -->
 <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/proxmox.png" alt="Proxmox" height="40" />
   
-  <!-- Networking -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Networking" height="40" />
-  
   <!-- OpenSSL -->
 <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openssl.png" alt="OpenSSL" height="40" />
 </div>
