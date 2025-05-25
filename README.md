@@ -126,7 +126,8 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="40" />
 
   <!-- LDAP -->
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/ldap.png" alt="LDAP" height="40" />
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/new-images/main/ldapp.png" alt="LDAP" height="40" />
+
 
 </div>
 
