@@ -1,4 +1,5 @@
-# 👋 Hello, world!
+
+<h1 align="center">👋 Hello World!</h1>
 
 <div align="center">
 
@@ -10,7 +11,7 @@
 </div>
 
 
----
+
 
 ## 👤 About Me 
 I'm a Computer Science student passionate about Software Development, Information Technology, and Cybersecurity. I love building secure, reliable systems and exploring how technology can solve real-world problems.
