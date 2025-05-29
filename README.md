@@ -2,9 +2,10 @@
 
 <div align="center">
 
-![Software Developer](https://img.shields.io/badge/💻%20Software%20Developer-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IT Specialist](https://img.shields.io/badge/🛠️%20IT%20Specialist-FF0000?style=for-the-badge&logo=windows&logoColor=black&labelColor=000000)
-![Cybersecurity Enthusiast](https://img.shields.io/badge/🔐%20Cybersecurity-4B0082?style=for-the-badge&logo=kali-linux&logoColor=cyan)
+![Software Developer](https://img.shields.io/badge/Software%20Developer-%F0%9F%92%BB-brightgreen?style=for-the-badge&labelColor=555555)
+![IT Specialist](https://img.shields.io/badge/IT%20Specialist-%F0%9F%9B%A0%EF%B8%8F-blue?style=for-the-badge&labelColor=555555)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-purple?style=for-the-badge&labelColor=555555)
+
 
 </div>
 
@@ -126,14 +127,14 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <!-- LDAP -->
 <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/ldap%20(2).png" alt="LDAP" height="40" />
 
-
 </div>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StevenAlsheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenAlsheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# 📬 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-al-sheikh-731623240/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stevenalsheikh1@gmail.com ) 
 [![](https://visitcount.itsvg.in/api?id=StevenAlsheikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
