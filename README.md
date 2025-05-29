@@ -135,6 +135,7 @@ I'm a Computer Science student passionate about Software Development, Informatio
 # 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-al-sheikh-731623240/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stevenalsheikh1@gmail.com ) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=stevenalsheikh1@gmail.com)
 [![](https://visitcount.itsvg.in/api?id=StevenAlsheikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
