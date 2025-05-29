@@ -134,9 +134,10 @@ I'm a Computer Science student passionate about Software Development, Informatio
 ![](https://github-readme-stats.vercel.app/api?username=StevenAlsheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenAlsheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-al-sheikh-731623240/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-al-sheikh-731623240/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=stevenalsheikh1@gmail.com)
 [![Secure Email](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](https://mail.protonmail.com/compose?to=Steven.Alsheikh@protonmail.com)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=white)](sms:+16198563912)
 [![](https://visitcount.itsvg.in/api?id=StevenAlsheikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
