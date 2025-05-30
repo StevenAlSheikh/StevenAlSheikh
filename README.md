@@ -78,8 +78,7 @@ I'm a Computer Science student passionate about Software Development, Informatio
 
 
 <!-- OpenBSD -->
-<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openbsd%20logo.jpg" alt="OpenBSD" height="40" />
-
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openbsd%20logo%20new.png" alt="OpenBSD" height="40" />
 
   <!-- Ubuntu -->
 <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/ubuntu%20logo.png" alt="Ubuntu" height="40" />
@@ -92,6 +91,12 @@ I'm a Computer Science student passionate about Software Development, Informatio
   
   <!-- OpenSSL -->
 <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openssl.png" alt="OpenSSL" height="40" />
+
+<!-- VirtualBox -->
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/virtualbox%20logo.png" alt="VirtualBox" height="40" />
+
+<!-- VMware -->
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/vmare%20workstation%20logo.jpg" alt="VMware Workstation" height="40" />
 </div>
 
 **Tools & DevOps**  
