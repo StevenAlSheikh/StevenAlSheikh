@@ -148,10 +148,12 @@ I'm a Computer Science student passionate about Software Development, Informatio
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=60)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=60)
+
 [![](https://visitcount.itsvg.in/api?id=StevenAlSheikh&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 # 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-al-sheikh-731623240/)
