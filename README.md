@@ -134,12 +134,15 @@ I'm a Computer Science student passionate about Software Development, Informatio
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StevenAlsheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenAlsheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=StevenAlSheikh&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=StevenAlSheikh&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 # 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-al-sheikh-731623240/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=stevenalsheikh1@gmail.com)
 [![Secure Email](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](https://mail.protonmail.com/compose?to=Steven.Alsheikh@protonmail.com)
 [![](https://visitcount.itsvg.in/api?id=StevenAlsheikh&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
