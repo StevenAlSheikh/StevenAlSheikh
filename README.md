@@ -1,5 +1,4 @@
-
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 40px 0;">
+ <div style="display: flex; flex-direction: column; align-items: center; margin: 40px 0;">
     <h1 align="center">👋 Hello World!</h1>
     <div align="center">
     <div class="badges" style="display: flex; gap: 12px; margin-top: 20px;">
@@ -12,8 +11,9 @@
 </body>
 
 
-## 👤 About Me 
+## 👤 About Me:
 I'm a Computer Science graduate from San Diego State University with a passion for Software Development, Information Technology, and Cybersecurity. I enjoy building secure, reliable systems and exploring how technology can solve real-world problems.
+
 
 
 ## 💻 Tech Stack:
