@@ -146,8 +146,7 @@ I'm a Computer Science graduate from San Diego State University with a passion f
 </div>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=60)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api?username=StevenAlSheikh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=60)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🤝 Connect with Me:
