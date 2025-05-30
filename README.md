@@ -65,7 +65,7 @@ I'm a Computer Science student passionate about Software Development, Informatio
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title ="Linux" height="40" />
   
   <!-- Windows -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="40" />
