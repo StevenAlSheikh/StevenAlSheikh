@@ -4,7 +4,7 @@
 <div align="center">
 
 ![Software Developer](https://img.shields.io/badge/Software%20Developer-%F0%9F%92%BB-brightgreen?style=for-the-badge&labelColor=555555)
-![IT Specialist](https://img.shields.io/badge/IT%20Specialist-%F0%9F%9B%A0%EF%B8%8F-blue?style=for-the-badge&labelColor=555555)
+![IT Specialist](https://img.shields.io/badge/IT%20Specialist-%F0%9F%94%A7-blue?style=for-the-badge&labelColor=555555)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-purple?style=for-the-badge&labelColor=555555)
 
 
