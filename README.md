@@ -92,12 +92,12 @@ I'm a Computer Science student passionate about Software Development, Informatio
   <!-- OpenSSL -->
 <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openssl.png" alt="OpenSSL" title="OpenSSL" height="40" />
 
+<!-- VMware -->
+<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/vmare%20workstation%20logo.jpg" alt="VMware Workstation" title="VMWare" height="40" />
+
 <!-- VirtualBox -->
 <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/new%20logo%20virtualbox.png" alt="VirtualBox" title="VirtualBox" height="40" />
 
-
-<!-- VMware -->
-<img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/vmare%20workstation%20logo.jpg" alt="VMware Workstation" title="VMWare" height="40" />
 </div>
 
 **Tools & DevOps**  
