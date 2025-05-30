@@ -96,6 +96,8 @@ I'm a Computer Science student passionate about Software Development, Informatio
 
 **Tools & DevOps**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- Jupyter Notebook -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" height="40" />
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" />
   
