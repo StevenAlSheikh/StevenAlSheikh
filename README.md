@@ -17,64 +17,59 @@ I'm a Computer Science graduate from San Diego State University with a passion f
 
 
 
-
-
 ## 🖥️ Tech Stack:
 
 ### Languages & Web
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" width="40" alt="Scala">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" alt="Bash">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="40" alt="R">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" title="Java">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" title="JavaScript">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" title="C">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" title="C++">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" width="40" alt="Scala" title="Scala">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" alt="Bash" title="Bash">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" title="MySQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" title="HTML5">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" title="CSS3">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="40" alt="R" title="R">&nbsp;
 </p>
-
-
-
 
 **System & Network Administration**  
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="40" alt="macOS">&nbsp;
-  <img src="https://raw.githubusercontent.com/TaranVH/LOGOS/master/FreeBSD%20logo.png" height="40" width="40" alt="FreeBSD">&nbsp;
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openbsd%20logo%20new.png" height="40" width="40" alt="OpenBSD">&nbsp;
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/ubuntu%20logo.png" height="40" width="40" alt="Ubuntu">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="40" alt="Solaris">&nbsp;
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/proxmox.png" height="40" width="40" alt="Proxmox">&nbsp;
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openssl.png" height="40" width="40" alt="OpenSSL">&nbsp;
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/vmare%20workstation%20logo.jpg" height="40" width="40" alt="VMware Workstation">&nbsp;
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/new%20logo%20virtualbox.png" height="40" width="40" alt="VirtualBox">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" title="Linux">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows" title="Windows">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="40" alt="macOS" title="macOS">&nbsp;
+  <img src="https://raw.githubusercontent.com/TaranVH/LOGOS/master/FreeBSD%20logo.png" height="40" width="40" alt="FreeBSD" title="FreeBSD">&nbsp;
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openbsd%20logo%20new.png" height="40" width="40" alt="OpenBSD" title="OpenBSD">&nbsp;
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/ubuntu%20logo.png" height="40" width="40" alt="Ubuntu" title="Ubuntu">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="40" alt="Solaris" title="Solaris">&nbsp;
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/proxmox.png" height="40" width="40" alt="Proxmox" title="Proxmox">&nbsp;
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/openssl.png" height="40" width="40" alt="OpenSSL" title="OpenSSL">&nbsp;
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/vmare%20workstation%20logo.jpg" height="40" width="40" alt="VMware Workstation" title="VMware Workstation">&nbsp;
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/new%20logo%20virtualbox.png" height="40" width="40" alt="VirtualBox" title="VirtualBox">&nbsp;
 </p>
 
 **Tools & DevOps**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter Notebook">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" width="40" alt="Ansible">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL Workbench">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" width="40" alt="Apache Tomcat">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="40" alt="IntelliJ IDEA">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="40" alt="PyCharm">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter Notebook" title="Jupyter Notebook">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" title="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" width="40" alt="Ansible" title="Ansible">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" title="Git">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL Workbench" title="MySQL Workbench">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" width="40" alt="Apache Tomcat" title="Apache Tomcat">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" title="VS Code">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="40" alt="IntelliJ IDEA" title="IntelliJ IDEA">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="40" alt="PyCharm" title="PyCharm">&nbsp;
 </p>
 
 **Other Tech Used in Projects** 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="40" alt="REST API">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" width="40" alt="JSON">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="40" alt="nginx">&nbsp;
-  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/ldap%20(2).png" height="40" width="40" alt="LDAP">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="40" alt="REST API" title="REST API">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" width="40" alt="JSON" title="JSON">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="40" alt="nginx" title="nginx">&nbsp;
+  <img src="https://raw.githubusercontent.com/StevenAlSheikh/images/main/ldap%20(2).png" height="40" width="40" alt="LDAP" title="LDAP">&nbsp;
 </p>
 
 
