@@ -3,8 +3,7 @@
     <div align="center">
     <div class="badges" style="display: flex; gap: 12px; margin-top: 20px;">
       <img src="https://img.shields.io/badge/Software%20Developer-%F0%9F%92%BB-brightgreen?style=flat&labelColor=555555" alt="Software Developer" style="height: 24px;" />
-      <img src="https://img.shields.io/badge/IT%20Specialist-%F0%9F%9B%A0-blue?style=flat&labelColor=555555" alt="IT Specialist" style="height: 24px;" />
-      <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-purple?style=flat&labelColor=555555" alt="Cybersecurity" style="height: 24px;" />
+      <img src="https://img.shields.io/badge/IT%20Systems%20%26%20Security%20Fundamentals-%F0%9F%94%90-blue?style=flat&labelColor=555555" alt="IT Systems & Security Fundamentals" style="height: 24px;" />
     </div>
   </div>
 
