@@ -13,7 +13,11 @@
 
 
 ## 👤 About Me:
-I'm a Computer Science graduate from San Diego State University with a passion for Software Development, Information Technology, and Cybersecurity. I enjoy building secure, reliable systems and exploring how technology can solve real-world problems.
+Computer Science graduate from San Diego State University with a focus on IT operations, systems support, and security fundamentals. I’m building hands-on experience supporting Linux and Windows environments, troubleshooting hardware and network issues, and maintaining reliable, secure systems.
+
+My long-term goal is to move into cybersecurity, starting from a strong foundation in IT and infrastructure. I’m particularly interested in how endpoint security, identity and access management, and system hardening reduce real-world risk.
+
+I actively develop my skills through labs, homelabs, and technical projects that reinforce practical troubleshooting, documentation, and security-aware operations.
 
 
 
